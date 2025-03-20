@@ -1,1 +1,1 @@
-# Spam-email-classification-SVM-
+# Spam-email-classification
